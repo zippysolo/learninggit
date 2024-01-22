@@ -1,0 +1,39 @@
+h1 {
+  color: red;
+  font-size: 33px;
+}
+h2 {
+  color: blue;
+  font-size: 25px;
+}
+h3 {
+  color: purple;
+  font-size: 20px;
+}
+
+.bigFont {
+  font-size: 18px;
+}
+.medFont {
+  font-size: 15px;
+}
+.smallFont {
+  font-size: 12px;
+}
+
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.purple {
+  color: purple;
+}
+
+span {
+  font-weight: bold;
+}
+div span {
+  color: red;
+}
